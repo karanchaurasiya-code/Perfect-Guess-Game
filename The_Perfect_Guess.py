@@ -1,7 +1,7 @@
 import random
 import time
 
-print("Welcome to the Perfect Guess Game!")
+print("Welcome to the Perfect Guess Game!!")
 
 while True:
     level = input("Choose difficulty (easy, medium, hard): ").lower()
